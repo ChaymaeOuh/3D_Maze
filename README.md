@@ -1,46 +1,67 @@
-<h1>3D Maze project</h1>
+# 3D Maze project
+---------------
+
+![image]()
 
 The 3D Maze Project aimed to create an immersive and interactive maze exploration experience using 3D graphics using SDL2, offering a combination of entertainment and algorithmic challenges.
 The Maze was written in C using SDL2 library.
 Deveploment was performed using window 10 gcc (MinGW.org GCC-6.3.0-1) 
 
-<h3>SDL2</h3>
+## SDL2
 Simple DirectMedia Layer is a cross-platform software development library designed to provide a hardware abstraction layer for computer multimedia hardware components.
 
-<h3>Instalation</h3>
-git clone https://github.com/ChaymaeOuh/3D_Maze.git
+## Instalation
+```sh
+$ git clone https://github.com/ChaymaeOuh/3D_Maze.git
 
-<h3>Compilation</h3>
-gcc main.c -o maze -IC:/SDL2/include -LC:/SDL2/lib -lSDL2main -lSDL2
+```
+## Compilation
+```sh
+$ gcc main.c -o maze -IC:/SDL2/include -LC:/SDL2/lib -lSDL2main -lSDL2
 
-<h3>Running</h3>
+```
+
+## Running
 After the compilation, run the program using the command 
-./maze MAP
+```sh
+$ ./maze MAP
 
-<h3>The Project Controls</h3>
-W: Move forward.
+```
+where ```MAP``` is the name of the file found in the maps folder.
 
-S: Move backward.
+## The Project Controls
 
-A: Rotate left.
+```W```: Move forward.
 
-D: Rotate right.
+```S```: Move backward.
 
-Mouse movement left/right: Adjust your view to the left or right.
+```A```: Rotate left.
 
-M: Disable the map display. Clicking won't show the 2D map.
+```D```: Rotate right.
 
-N: Enable the map display. The 2D map will become visible once more if it was hidden.
+```Mouse movement left/right```: Adjust your view to the left or right.
+
+```M```: Disable the map display. Clicking won't show the 2D map.
+
+```N```: Enable the map display. The 2D map will become visible once more if it was hidden.
 
 
-<h3>The Project Directories</h3>
-headers: All the header files are in here.
+## The Project Directories
+[`headers`] (https://github.com/ChaymaeOuh/3D_Maze/tree/main/headers)
 
-images: This contains all image files.
+All the header files are in here.
 
-maps: This will be used by the program to output the map layout using the data map files
+[`images`] (https://github.com/ChaymaeOuh/3D_Maze/tree/main/images)
 
-src: All the source code files written in C are in this folder.
+This contains all image files.
+
+[`maps`] (https://github.com/ChaymaeOuh/3D_Maze/tree/main/maps)
+
+This will be used by the program to output the map layout using the data map files
+
+[`src`] (https://github.com/ChaymaeOuh/3D_Maze/tree/main/src)
+
+All the source code files written in C are in this folder.
 
 <h3>Author</h3>
  OUHROUCH Chaymae 
