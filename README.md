@@ -64,9 +64,9 @@ This will be used by the program to output the map layout using the data map fil
 
 All the source code files written in C are in this folder.
 
-<h3>Author</h3>
+## Author
  OUHROUCH Chaymae 
 
- <h3>The 3D Maze Game Project Demo</h3>
+## The 3D Maze Game Project Demo(click :point_down:)
  The Maze Demo
 ![maze3](https://github.com/ChaymaeOuh/3D_Maze/assets/101417413/40575f64-9a3d-4514-9ec5-2f91503e8c47)(https://youtu.be/Hv_acdqMg7E)
