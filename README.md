@@ -68,4 +68,5 @@ All the source code files written in C are in this folder.
  OUHROUCH Chaymae 
 
 ## The 3D Maze Game Project Demo
-![![maze3](https://github.com/ChaymaeOuh/3D_Maze/assets/101417413/40575f64-9a3d-4514-9ec5-2f91503e8c47)](https://youtu.be/Hv_acdqMg7E)
+
+![![maze3](https://github.com/ChaymaeOuh/3D_Maze/assets/101417413/84e2f0a7-ace5-42d2-8895-44021a4cdd63)](https://www.youtube.com/watch?v=Hv_acdqMg7E)
