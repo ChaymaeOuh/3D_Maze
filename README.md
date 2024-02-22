@@ -69,4 +69,4 @@ All the source code files written in C are in this folder.
 
 ## The 3D Maze Game Project Demo
 
-<iframe width="1349" height="480" src="https://www.youtube.com/embed/Hv_acdqMg7E" title="3D Maze Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![the Maze Demo](https://img.youtube.com/vi/Hv_acdqMg7E/0.jpg)](https://www.youtube.com/watch?v=Hv_acdqMg7E)
